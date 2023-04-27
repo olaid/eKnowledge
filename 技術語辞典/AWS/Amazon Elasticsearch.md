@@ -1,0 +1,7 @@
+# Amazon Elasticsearch
+
+Created: 2022年3月14日 19:32
+
+Amazon Elasticsearchは、Elastic社がオープンソースで開発していたElasticsearchをAWSがマネージドサービスとして提供しているクラウドサービスです。
+
+[https://www.publickey1.jp/blog/21/amazon_elasticsearch_serviceamazon_opensearch_serviceelasticsearchopensearch.html](https://www.publickey1.jp/blog/21/amazon_elasticsearch_serviceamazon_opensearch_serviceelasticsearchopensearch.html)

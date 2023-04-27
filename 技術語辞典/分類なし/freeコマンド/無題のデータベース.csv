@@ -1,0 +1,8 @@
+﻿項目,内容
+total,合計メモリ量
+used,メモリ使用量（実際にプロセスで使用されているメモリ量）
+free,全く使われていない未割り当てのメモリ量
+shared,共有メモリで使用しているメモリ量
+buffers,ファイルバッファに使われているメモリ量
+cached,キャッシュメモリに使われているメモリ量
+-/+ buffers/cache,usedからbuffersとcachedを引いた値 / freeにbuffersとcachedを足した値
